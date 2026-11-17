@@ -1,4 +1,4 @@
-
+ 
 
 <div align="left">
 
@@ -27,7 +27,7 @@
 
 ##   **Requirements**
 
-> An NVIDIA GPU. 8 GB of VRAM is comfortable
+> A GPU. 8 GB of VRAM is comfortable
 
 > Linux (Ubuntu) with Docker Engine and Docker Compose v2, or Windows with [Docker Desktop](https://www.docker.com/products/docker-desktop/) on the WSL2 backend.
 
