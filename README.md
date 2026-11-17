@@ -229,6 +229,11 @@ cd ~/openshorts
 ```
 
 ```
+chmod a+r yolov8n.pt
+chmod a+rwx .
+```
+
+```
 docker run --rm --entrypoint ls openshorts-backend -la /app/yolov8n.pt
 ```
 
@@ -242,11 +247,6 @@ docker run --rm --entrypoint cat openshorts-backend /app/yolov8n.pt > yolov8n.pt
 
 ```
 ls -la yolov8n.pt
-```
-
-```
-chmod a+r yolov8n.pt
-chmod a+rwx .
 ```
 
 ---
